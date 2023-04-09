@@ -98,5 +98,3 @@ org.videolan.VLC,
 org.x.Warpinator,
 re.sonny.Tangram,
 us.zoom.Zoom
-
-flatpak install $FLATS
